@@ -1,11 +1,11 @@
 {
-  "name": "tumblr.",
-  "version": "0.0.4",
-  "description": "Provide a shortcut to tumblr",
+  "name": "Launchpad",
+  "version": "0.0.1",
+  "description": "Provide a shortcut to 37signals' Launchpad",
   "app": {
-    "urls": ["http://tumblr.yolk.cc/"],
+    "urls": ["http://launchpad.yolk.cc/"],
     "launch": {
-      "web_url": "http://tumblr.yolk.cc"
+      "web_url": "http://launchpad.yolk.cc"
     }
   },
   "permissions": [],
