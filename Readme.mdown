@@ -3,6 +3,8 @@ Provide a shortcut to 37signals launchpad
 
 Forked from my tumblr-shortcut and uses the same redirect magic.
 
+20130702: Update! now much faster!
+
 Install from the Chrome Web Store
 ---------------------------------
 
