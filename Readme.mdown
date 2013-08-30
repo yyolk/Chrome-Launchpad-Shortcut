@@ -1,19 +1,14 @@
-Provide a shortcut to tumblr
+Provide a shortcut to 37signals launchpad
 ======================================
 
-Shortcut to tumblr, since I like a shortcut on my new Tab page.
+Forked from my tumblr-shortcut and uses the same redirect magic.
 
 Install from the Chrome Web Store
 ---------------------------------
 
-[Just go here](https://chrome.google.com/webstore/detail/giikciflnljhpomkphelpoiheghamifc)
-
+~~[Just go here]()~~ **coming soon**
 Install from the Git
 --------------------
 
   1. Enable Developermode in the Extension setting
   2. Load this folder as an unpacked extension.
-
-Icon by [Antrepo](http://www.iconarchive.com/show/container-4-cargo-vans-icons-by-antrepo/Tumblr-Shipping-Box-icon.html)
-
-tumblr copyright [tumblr.com](http://tumblr.com)
